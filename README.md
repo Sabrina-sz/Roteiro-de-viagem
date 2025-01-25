@@ -1,6 +1,3 @@
-<p align="center">
-  <img alt="Logo NLW Journey - Rocketseat" src=".github/logo.png" width="200px" />
-</p>
 
 <p align="center">
 Projeto do NLW Journey da Rocketseat.
